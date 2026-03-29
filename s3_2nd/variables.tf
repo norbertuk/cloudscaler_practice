@@ -7,7 +7,7 @@ variable "tags" {
     type = map(strings)
     default = {
         "Environment" = "dev"
-        "OwnerContact" = "soltesz.norbert@gmail.com"
+        "OwnerContact" = "xyz@myemail.com"
     }
 }
 
